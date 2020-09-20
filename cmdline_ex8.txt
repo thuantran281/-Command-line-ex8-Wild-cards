@@ -1,0 +1,41 @@
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ mkdir pictures
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan (master)
+$ cd pictures
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/pictures (master)
+$ ls
+poetry.jpg  wallpaperforwindows.png
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/pictures (master)
+$ touch i_am_a_file.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/pictures (master)
+$ touch i_am_not_a_picture.txt
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/pictures (master)
+$ ls
+i_am_a_file.txt  i_am_not_a_picture.txt  poetry.jpg  wallpaperforwindows.png
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/pictures (master)
+$ mkdir pictures
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/pictures (master)
+$ cd pictures
+
+Admin@VietThuanTran MINGW32 /e/Cmdline-vietthuan/pictures/pictures (master)
+$ cd /e/cmdline-vietthuan/pictures
+
+Admin@VietThuanTran MINGW32 /e/cmdline-vietthuan/pictures (master)
+$ cp *.jpg pictures/
+
+Admin@VietThuanTran MINGW32 /e/cmdline-vietthuan/pictures (master)
+$ cp *.png pictures/
+
+Admin@VietThuanTran MINGW32 /e/cmdline-vietthuan/pictures (master)
+$ cd pictures/
+
+Admin@VietThuanTran MINGW32 /e/cmdline-vietthuan/pictures/pictures (master)
+$ ls
+poetry.jpg  wallpaperforwindows.png
